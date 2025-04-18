@@ -3,5 +3,7 @@
 "description:" "SCRIPT SECURITY PREM", 
 "lastUpdated:" "2025-2027", 
 "author:" "Ramlee Ganteng", 
-"status:" "Aktif"
+"status:" "Active", 
+"license:" "MIT", 
+"version:" "2.0"
 }
